@@ -12,3 +12,5 @@ Simple Steps
 - Create a file in the `Developers` folder in Swiftly app space. The file name should be your GitHub handle.
 - Create a `developer` object as mentioned in `myawesomehub.swift` file.
 - Raise a pull request.
+
+Note: The app has not deployed yet. It required more content inside the app to get approved.
